@@ -11,18 +11,24 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v3
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }} # Ensures GitHub Actions has push access
+
+      - name: Install jq
+        run: sudo apt-get install -y jq  # Install jq for JSON processing
 
       - name: Fetch Computer Science Quote
-        run: curl -s https://api.quotable.io/random?tags=technology | jq -r '"\(.content) - \(.author)"' > quote.txt
+        run: |
+          curl -s https://api.quotable.io/random?tags=technology | jq -r '.content + " - " + .author' > quote.txt
 
       - name: Update README
         run: |
-          sed -i "/<!-- CS_QUOTE -->/c\ - 💡  Computer Science Quote: \"$(cat quote.txt)\"" README.md
+          sed -i "/<!-- CS_QUOTE -->/c\ - 💡  Computer Science Quote: $(cat quote.txt)" README.md
 
       - name: Commit and push changes
         run: |
           git config --global user.name "GitHub Actions"
           git config --global user.email "actions@github.com"
           git add README.md
-          git commit -m "Updated CS Quote"
+          git commit -m "Updated CS Quote" || echo "No changes to commit"
           git push
