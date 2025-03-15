@@ -1,7 +1,7 @@
 ## Hi there <img src="https://github.com/user-attachments/assets/844aaad5-66b1-465a-a000-b15613d8ea9c" width="30" height="30" alt="GIF">  
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I’m+spyrostratis;Computer+science+student)](https://git.io/typing-svg)  
-# 💫 About Me:
+## 💫 About Me:
 🔭 I’m currently working on personal projects and university assignments<br>
 🔗 I’m looking to collaborate on open-source projects and innovative coding challenges<br>
 🤝 I’m looking for help with improving my problem-solving skills and mastering new technologies<br>
@@ -9,7 +9,7 @@
 <img src="https://github.com/user-attachments/assets/a5e5d5ff-444c-4ff7-96de-d2aeb1132619" width="300" height="200" alt="GIF">
 
 
-# 💻 Tech Stack:
+## 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) 
