@@ -17,12 +17,11 @@ jobs:
       - name: Install jq
         run: sudo apt-get install -y jq  # Install jq for JSON processing
 
-      - name: Fetch Computer Science Quote
+      - name: Select a Random Quote from File
         run: |
-          RESPONSE=$(curl -s "https://programming-quotesapi.vercel.app/api/random")
-          echo "API Response: $RESPONSE"  # Debugging: Print the API response
-          QUOTE=$(echo "$RESPONSE" | jq -r '.en + " - " + .author')
-          echo "Saved Quote: $QUOTE"  # Debugging: Print the saved quote
+          # Read all quotes from quotes.json and select a random one
+          QUOTE=$(jq -r '. | map(.text + " - " + .author) | .[rand * length | floor]' quotes.json)
+          echo "Selected Quote: $QUOTE"  # Debugging: Print the selected quote
           echo "$QUOTE" > quote.txt
 
       - name: Update README
