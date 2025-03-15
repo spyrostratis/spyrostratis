@@ -19,17 +19,27 @@ jobs:
 
       - name: Select a Random Quote from File
         run: |
+          echo "Checking JSON file contents:"
+          cat quotes.json  # Print the JSON file to check if it's correctly loaded
+
           # Count total quotes
           TOTAL_QUOTES=$(jq 'length' quotes.json)
+          echo "Total Quotes: $TOTAL_QUOTES"  # Print the total number of quotes
+
           # Generate a random index
           RANDOM_INDEX=$((RANDOM % TOTAL_QUOTES))
+          echo "Random Index Selected: $RANDOM_INDEX"  # Print the selected index
+
           # Select the quote at the random index
-          QUOTE=$(jq -r ".[$RANDOM_INDEX] | .text + \" - \" + .author" quotes.json)
-          echo "Selected Quote: $QUOTE"  # Debugging: Print the selected quote
+          QUOTE=$(jq -r ".[$RANDOM_INDEX].text + \" - \" + .[$RANDOM_INDEX].author" quotes.json)
+          echo "Selected Quote: $QUOTE"  # Print the selected quote
+
+          # Save quote to file
           echo "$QUOTE" > quote.txt
 
       - name: Update README
         run: |
+          QUOTE=$(cat quote.txt)
           sed -i "/<!-- CS_QUOTE -->/c\ - 💡  Computer Science Quote: \"$QUOTE\"" README.md
 
       - name: Commit and push changes
