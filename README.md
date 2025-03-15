@@ -45,4 +45,4 @@ You can click the Preview link to take a look at your changes.
 
 <!-- - 📫 How to reach me ...  --->
 
- - 💡  Computer Science Quote: ""
+- 💡 Computer Science Quote: <!-- CS_QUOTE -->
