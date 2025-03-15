@@ -19,11 +19,15 @@ jobs:
 
       - name: Fetch Computer Science Quote
         run: |
-          curl -s https://api.quotable.io/random?tags=technology | jq -r '.content + " - " + .author' > quote.txt
+          RESPONSE=$(curl -s "https://programming-quotesapi.vercel.app/api/random")
+          echo "API Response: $RESPONSE"  # Debugging: Print the API response
+          QUOTE=$(echo "$RESPONSE" | jq -r '.en + " - " + .author')
+          echo "Saved Quote: $QUOTE"  # Debugging: Print the saved quote
+          echo "$QUOTE" > quote.txt
 
       - name: Update README
         run: |
-          sed -i "/<!-- CS_QUOTE -->/c\ - 💡  Computer Science Quote: $(cat quote.txt)" README.md
+          sed -i "/<!-- CS_QUOTE -->/c\ - 💡  Computer Science Quote: \"$QUOTE\"" README.md
 
       - name: Commit and push changes
         run: |
