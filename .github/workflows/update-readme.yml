@@ -20,19 +20,19 @@ jobs:
       - name: Select a Random Quote from File
         run: |
           echo "Checking JSON file contents:"
-          cat quotes.json  # Print the JSON file to check if it's correctly loaded
+          cat quotes.json  # Print JSON file
 
           # Count total quotes
           TOTAL_QUOTES=$(jq 'length' quotes.json)
-          echo "Total Quotes: $TOTAL_QUOTES"  # Print the total number of quotes
+          echo "Total Quotes: $TOTAL_QUOTES"
 
           # Generate a random index
           RANDOM_INDEX=$((RANDOM % TOTAL_QUOTES))
-          echo "Random Index Selected: $RANDOM_INDEX"  # Print the selected index
+          echo "Random Index Selected: $RANDOM_INDEX"
 
           # Select the quote at the random index
           QUOTE=$(jq -r ".[$RANDOM_INDEX].text + \" - \" + .[$RANDOM_INDEX].author" quotes.json)
-          echo "Selected Quote: $QUOTE"  # Print the selected quote
+          echo "Selected Quote: $QUOTE"
 
           # Save quote to file
           echo "$QUOTE" > quote.txt
