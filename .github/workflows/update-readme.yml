@@ -19,8 +19,12 @@ jobs:
 
       - name: Select a Random Quote from File
         run: |
-          # Read all quotes from quotes.json and select a random one
-          QUOTE=$(jq -r '. | map(.text + " - " + .author) | .[rand * length | floor]' quotes.json)
+          # Count total quotes
+          TOTAL_QUOTES=$(jq 'length' quotes.json)
+          # Generate a random index
+          RANDOM_INDEX=$((RANDOM % TOTAL_QUOTES))
+          # Select the quote at the random index
+          QUOTE=$(jq -r ".[$RANDOM_INDEX] | .text + \" - \" + .author" quotes.json)
           echo "Selected Quote: $QUOTE"  # Debugging: Print the selected quote
           echo "$QUOTE" > quote.txt
 
