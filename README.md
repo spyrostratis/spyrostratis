@@ -46,5 +46,5 @@ You can click the Preview link to take a look at your changes.
 <!-- - 📫 How to reach me ...  --->
 
 <!-- CS_QUOTE -->
- - 💡  Computer Science Quote: "Most programming languages contain good parts and bad parts. I discovered that I could be better programmer by using only the good parts and avoiding the bad parts." — Douglas Crockford
+ - 💡 Computer Science Quote: "The beginning of wisdom for a programmer is to recognize the difference between getting his program to work and getting it right." — Michael A. Jackson
 <!-- CS_QUOTE_END -->
