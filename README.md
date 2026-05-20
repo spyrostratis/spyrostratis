@@ -46,5 +46,5 @@ You can click the Preview link to take a look at your changes.
 <!-- - 📫 How to reach me ...  --->
 
 <!-- CS_QUOTE -->
- - 💡 Computer Science Quote: "The beginning of wisdom for a programmer is to recognize the difference between getting his program to work and getting it right." — Michael A. Jackson
+ - 💡 Computer Science Quote: "Language systems stand on a tripod. There’s the language, there’s the libraries, and there are the tools. And how successful a language is depends on a complex interaction between those three things." — L. Peter Deutsch
 <!-- CS_QUOTE_END -->
