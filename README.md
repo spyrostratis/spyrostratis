@@ -46,5 +46,5 @@ You can click the Preview link to take a look at your changes.
 <!-- - 📫 How to reach me ...  --->
 
 <!-- CS_QUOTE -->
- - 💡 Computer Science Quote: "Language systems stand on a tripod. There’s the language, there’s the libraries, and there are the tools. And how successful a language is depends on a complex interaction between those three things." — L. Peter Deutsch
+ - 💡 Computer Science Quote: "AI is a fundamental risk to the existence of human civilization." — Elon Musk
 <!-- CS_QUOTE_END -->
