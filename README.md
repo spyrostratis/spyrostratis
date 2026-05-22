@@ -46,5 +46,5 @@ You can click the Preview link to take a look at your changes.
 <!-- - 📫 How to reach me ...  --->
 
 <!-- CS_QUOTE -->
- - 💡 Computer Science Quote: "AI is a fundamental risk to the existence of human civilization." — Elon Musk
+ - 💡 Computer Science Quote: "Programming is the ultimate field for someone who likes to tinker." — Ray Ozzie
 <!-- CS_QUOTE_END -->
