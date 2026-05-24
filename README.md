@@ -46,5 +46,5 @@ You can click the Preview link to take a look at your changes.
 <!-- - 📫 How to reach me ...  --->
 
 <!-- CS_QUOTE -->
- - 💡 Computer Science Quote: "Perhaps the central problem we face in all of computer science is how we are to get to the situation where we build on top of the work of others rather than redoing so much of it in a trivially different way." — Richard Hamming
+ - 💡 Computer Science Quote: "Really good programs live forever." — Charles Simonyi
 <!-- CS_QUOTE_END -->
