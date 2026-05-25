@@ -46,5 +46,5 @@ You can click the Preview link to take a look at your changes.
 <!-- - 📫 How to reach me ...  --->
 
 <!-- CS_QUOTE -->
- - 💡 Computer Science Quote: "Really good programs live forever." — Charles Simonyi
+ - 💡 Computer Science Quote: "The most important single aspect of software development is to be clear about what you are trying to build." — Bjarne Stroustrup
 <!-- CS_QUOTE_END -->
