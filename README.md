@@ -46,5 +46,5 @@ You can click the Preview link to take a look at your changes.
 <!-- - 📫 How to reach me ...  --->
 
 <!-- CS_QUOTE -->
- - 💡 Computer Science Quote: "The most important single aspect of software development is to be clear about what you are trying to build." — Bjarne Stroustrup
+ - 💡 Computer Science Quote: "I am never satisfied until I have said as much as possible in a few words, and writing briefly takes far more time than writing at length." — Carl Friedrich Gauss
 <!-- CS_QUOTE_END -->
