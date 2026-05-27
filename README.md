@@ -46,5 +46,5 @@ You can click the Preview link to take a look at your changes.
 <!-- - 📫 How to reach me ...  --->
 
 <!-- CS_QUOTE -->
- - 💡 Computer Science Quote: "I am never satisfied until I have said as much as possible in a few words, and writing briefly takes far more time than writing at length." — Carl Friedrich Gauss
+ - 💡 Computer Science Quote: "Coding is "90 percent finished" for half of the total coding time. Debugging is "99 percent complete" most of the time." — Fred Brooks
 <!-- CS_QUOTE_END -->
