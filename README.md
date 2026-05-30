@@ -46,5 +46,5 @@ You can click the Preview link to take a look at your changes.
 <!-- - 📫 How to reach me ...  --->
 
 <!-- CS_QUOTE -->
- - 💡 Computer Science Quote: "When I am working on a problem I never think about beauty. I think only how to solve the problem. But when I have finished, if the solution is not beautiful, I know it is wrong." — Buckminster Fuller
+ - 💡 Computer Science Quote: "When we don’t understand a process, we fall into magical thinking about results." — Jef Raskin
 <!-- CS_QUOTE_END -->
