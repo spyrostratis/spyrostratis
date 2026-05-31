@@ -46,5 +46,5 @@ You can click the Preview link to take a look at your changes.
 <!-- - 📫 How to reach me ...  --->
 
 <!-- CS_QUOTE -->
- - 💡 Computer Science Quote: "When we don’t understand a process, we fall into magical thinking about results." — Jef Raskin
+ - 💡 Computer Science Quote: "Making things easy is hard." — Ted Nelson
 <!-- CS_QUOTE_END -->
