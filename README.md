@@ -46,5 +46,5 @@ You can click the Preview link to take a look at your changes.
 <!-- - 📫 How to reach me ...  --->
 
 <!-- CS_QUOTE -->
- - 💡 Computer Science Quote: "Documenting is very, very hard; it’s time-consuming. To do it right, you’ve got to do it like programming. You’ve got to deconstruct it, put it together in nice ways, rewrite it when it’s wrong. People don’t do that." — Ken Thompson
+ - 💡 Computer Science Quote: "If you ever talk to a great programmer, you'll find he knows his tools like an artist knows his paintbrushes." — Bill Gates
 <!-- CS_QUOTE_END -->
