@@ -46,5 +46,5 @@ You can click the Preview link to take a look at your changes.
 <!-- - 📫 How to reach me ...  --->
 
 <!-- CS_QUOTE -->
- - 💡 Computer Science Quote: "The path to the CEO's office should not be through the CFO's office, and it should not be through the marketing department. It needs to be through engineering and design." — Elon Musk
+ - 💡 Computer Science Quote: "The trouble with programmers is that you can never tell what a programmer is doing until it’s too late." — Seymour Cray
 <!-- CS_QUOTE_END -->
