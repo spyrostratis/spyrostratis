@@ -46,5 +46,5 @@ You can click the Preview link to take a look at your changes.
 <!-- - 📫 How to reach me ...  --->
 
 <!-- CS_QUOTE -->
- - 💡 Computer Science Quote: "The trouble with programmers is that you can never tell what a programmer is doing until it’s too late." — Seymour Cray
+ - 💡 Computer Science Quote: "Be humble, communicate clearly, and respect others. It costs nothing to be kind, but the impact is priceless." — Addy Osmani
 <!-- CS_QUOTE_END -->
