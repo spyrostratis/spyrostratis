@@ -46,5 +46,5 @@ You can click the Preview link to take a look at your changes.
 <!-- - 📫 How to reach me ...  --->
 
 <!-- CS_QUOTE -->
- - 💡 Computer Science Quote: "Two centuries ago Leibnitz invented a calculating machine which embodied most of the essential features of recent keyboard devices, but it could not then come into use. The economics of the situation were against it." — Vannevar Bush
+ - 💡 Computer Science Quote: "When a program is clean and neat, nicely structured, and consistent, it can be beautiful." — Gary Kildall
 <!-- CS_QUOTE_END -->
