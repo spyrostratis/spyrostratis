@@ -46,5 +46,5 @@ You can click the Preview link to take a look at your changes.
 <!-- - 📫 How to reach me ...  --->
 
 <!-- CS_QUOTE -->
- - 💡 Computer Science Quote: "Nobody knows how to build really complicated hardware systems, so designing hardware tends to be simpler. Software is much more complicated." — Butler Lampson
+ - 💡 Computer Science Quote: "I don't like using any tools or programs I didn't write myself or that I don't have some control over." — Jonathan Sachs
 <!-- CS_QUOTE_END -->
