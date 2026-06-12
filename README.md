@@ -46,5 +46,5 @@ You can click the Preview link to take a look at your changes.
 <!-- - 📫 How to reach me ...  --->
 
 <!-- CS_QUOTE -->
- - 💡 Computer Science Quote: "I don't like using any tools or programs I didn't write myself or that I don't have some control over." — Jonathan Sachs
+ - 💡 Computer Science Quote: "Flaws in computer programs are usually called bugs. It makes programmers feel good to imagine them as little things that just happen to crawl into our work. In reality, of course, we put them there ourselves." — Marijn Haverbeke
 <!-- CS_QUOTE_END -->
