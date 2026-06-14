@@ -46,5 +46,5 @@ You can click the Preview link to take a look at your changes.
 <!-- - 📫 How to reach me ...  --->
 
 <!-- CS_QUOTE -->
- - 💡 Computer Science Quote: "The fundamental problem with program maintenance is that fixing a defect has a substantial (20-50 percent) chance of introducing another. So the whole process is two steps forward and one step back." — Fred Brooks
+ - 💡 Computer Science Quote: "The purpose of computing is insight, not numbers." — Richard Hamming
 <!-- CS_QUOTE_END -->
