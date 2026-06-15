@@ -46,5 +46,5 @@ You can click the Preview link to take a look at your changes.
 <!-- - 📫 How to reach me ...  --->
 
 <!-- CS_QUOTE -->
- - 💡 Computer Science Quote: "The purpose of computing is insight, not numbers." — Richard Hamming
+ - 💡 Computer Science Quote: "With the right programming, a computer can become a theater, a musical instrument, a reference book, a chess opponent. No other entity in the world except a human being has such an adaptable, universal nature." — Danny Hillis
 <!-- CS_QUOTE_END -->
