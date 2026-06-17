@@ -46,5 +46,5 @@ You can click the Preview link to take a look at your changes.
 <!-- - 📫 How to reach me ...  --->
 
 <!-- CS_QUOTE -->
- - 💡 Computer Science Quote: "The ratio of time spent reading versus writing is well over 10 to 1. We are constantly reading old code as part of the effort to write new code." — Robert C. Martin
+ - 💡 Computer Science Quote: "Because of optimism, we usually expect the number of bugs to be smaller than it turns out to be. Therefore testing is usually the most mis-scheduled part of programming." — Fred Brooks
 <!-- CS_QUOTE_END -->
