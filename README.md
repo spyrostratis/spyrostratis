@@ -46,5 +46,5 @@ You can click the Preview link to take a look at your changes.
 <!-- - 📫 How to reach me ...  --->
 
 <!-- CS_QUOTE -->
- - 💡 Computer Science Quote: "Because of optimism, we usually expect the number of bugs to be smaller than it turns out to be. Therefore testing is usually the most mis-scheduled part of programming." — Fred Brooks
+ - 💡 Computer Science Quote: "Unix is simple. It just takes a genius to understand its simplicity." — Dennis Ritchie
 <!-- CS_QUOTE_END -->
