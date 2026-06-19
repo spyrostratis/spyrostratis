@@ -46,5 +46,5 @@ You can click the Preview link to take a look at your changes.
 <!-- - 📫 How to reach me ...  --->
 
 <!-- CS_QUOTE -->
- - 💡 Computer Science Quote: "Unix is simple. It just takes a genius to understand its simplicity." — Dennis Ritchie
+ - 💡 Computer Science Quote: "Once you stop learning you start dying." — Albert Einstein
 <!-- CS_QUOTE_END -->
