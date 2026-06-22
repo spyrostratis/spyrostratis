@@ -46,5 +46,5 @@ You can click the Preview link to take a look at your changes.
 <!-- - 📫 How to reach me ...  --->
 
 <!-- CS_QUOTE -->
- - 💡 Computer Science Quote: "The idea behind digital computers may be explained by saying that these machines are intended to carry out any operations which could be done by a human computer." — Alan Turing
+ - 💡 Computer Science Quote: "What one programmer can do in one month, two programmers can do in two months." — Fred Brooks
 <!-- CS_QUOTE_END -->
