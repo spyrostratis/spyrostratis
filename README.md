@@ -46,5 +46,5 @@ You can click the Preview link to take a look at your changes.
 <!-- - 📫 How to reach me ...  --->
 
 <!-- CS_QUOTE -->
- - 💡 Computer Science Quote: "Most software today is very much like an Egyptian pyramid with millions of bricks piled on top of each other, with no structural integrity, but just done by brute force and thousands of slaves." — Alan Kay
+ - 💡 Computer Science Quote: "Any fool can write code that a computer can understand. Good programmers write code that humans can understand." — Martin Fowler
 <!-- CS_QUOTE_END -->
