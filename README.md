@@ -46,5 +46,5 @@ You can click the Preview link to take a look at your changes.
 <!-- - 📫 How to reach me ...  --->
 
 <!-- CS_QUOTE -->
- - 💡 Computer Science Quote: "Any fool can write code that a computer can understand. Good programmers write code that humans can understand." — Martin Fowler
+ - 💡 Computer Science Quote: "A few months writing code can save you a few hours in design." — Anonymous
 <!-- CS_QUOTE_END -->
