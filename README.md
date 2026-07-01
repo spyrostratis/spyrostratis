@@ -46,5 +46,5 @@ You can click the Preview link to take a look at your changes.
 <!-- - 📫 How to reach me ...  --->
 
 <!-- CS_QUOTE -->
- - 💡 Computer Science Quote: "What a computer is to me is it's the most remarkable tool that we have ever come up with. It's the equivalent of a bicycle for our minds." — Steve Jobs
+ - 💡 Computer Science Quote: "If you ever talk to a great programmer, you'll find he knows his tools like an artist knows his paintbrushes." — Bill Gates
 <!-- CS_QUOTE_END -->
