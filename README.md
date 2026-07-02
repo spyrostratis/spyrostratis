@@ -46,5 +46,5 @@ You can click the Preview link to take a look at your changes.
 <!-- - 📫 How to reach me ...  --->
 
 <!-- CS_QUOTE -->
- - 💡 Computer Science Quote: "If you ever talk to a great programmer, you'll find he knows his tools like an artist knows his paintbrushes." — Bill Gates
+ - 💡 Computer Science Quote: "Software engineering is the part of computer science which is too difficult for the computer scientist." — Friedrich Bauer
 <!-- CS_QUOTE_END -->
