@@ -46,5 +46,5 @@ You can click the Preview link to take a look at your changes.
 <!-- - 📫 How to reach me ...  --->
 
 <!-- CS_QUOTE -->
- - 💡 Computer Science Quote: "Software engineering is the part of computer science which is too difficult for the computer scientist." — Friedrich Bauer
+ - 💡 Computer Science Quote: "I think of myself as a writer. Sometimes I write in English and sometimes I write in JavaScript." — Douglas Crockford
 <!-- CS_QUOTE_END -->
