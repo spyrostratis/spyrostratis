@@ -46,5 +46,5 @@ You can click the Preview link to take a look at your changes.
 <!-- - 📫 How to reach me ...  --->
 
 <!-- CS_QUOTE -->
- - 💡 Computer Science Quote: "I think of myself as a writer. Sometimes I write in English and sometimes I write in JavaScript." — Douglas Crockford
+ - 💡 Computer Science Quote: "Putting a new feature into a program is important, but refactoring so new features can be added in the future is equally important." — Ward Cunningham
 <!-- CS_QUOTE_END -->
