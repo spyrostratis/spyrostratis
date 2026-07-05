@@ -46,5 +46,5 @@ You can click the Preview link to take a look at your changes.
 <!-- - 📫 How to reach me ...  --->
 
 <!-- CS_QUOTE -->
- - 💡 Computer Science Quote: "Putting a new feature into a program is important, but refactoring so new features can be added in the future is equally important." — Ward Cunningham
+ - 💡 Computer Science Quote: "Sometimes it’s just easier to throw a system away, and start over." — Joseph Yoder (computer scientist)
 <!-- CS_QUOTE_END -->
