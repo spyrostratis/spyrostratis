@@ -46,5 +46,5 @@ You can click the Preview link to take a look at your changes.
 <!-- - 📫 How to reach me ...  --->
 
 <!-- CS_QUOTE -->
- - 💡 Computer Science Quote: "Sometimes it’s just easier to throw a system away, and start over." — Joseph Yoder (computer scientist)
+ - 💡 Computer Science Quote: "Chemical engineers learned long ago that a process that works in the laboratory cannot be implemented in a factory in only one step." — Fred Brooks
 <!-- CS_QUOTE_END -->
