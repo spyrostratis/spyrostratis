@@ -46,5 +46,5 @@ You can click the Preview link to take a look at your changes.
 <!-- - 📫 How to reach me ...  --->
 
 <!-- CS_QUOTE -->
- - 💡 Computer Science Quote: "Once a new technology starts rolling, if you’re not part of the steamroller, you’re part of the road." — Stewart Brand
+ - 💡 Computer Science Quote: "It is better to have 100 functions operate on one data structure than to have 10 functions operate on 10 data structures." — Alan Perlis
 <!-- CS_QUOTE_END -->
