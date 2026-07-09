@@ -46,5 +46,5 @@ You can click the Preview link to take a look at your changes.
 <!-- - 📫 How to reach me ...  --->
 
 <!-- CS_QUOTE -->
- - 💡 Computer Science Quote: "It is better to have 100 functions operate on one data structure than to have 10 functions operate on 10 data structures." — Alan Perlis
+ - 💡 Computer Science Quote: "Don't blame me for the fact that competent programming will be too difficult for "the average programmer" — you must not fall into the trap of rejecting a surgical technique because it is beyond the capabilities of the barber in his shop around the corner." — Edsger W. Dijkstra
 <!-- CS_QUOTE_END -->
