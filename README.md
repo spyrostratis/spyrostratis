@@ -46,5 +46,5 @@ You can click the Preview link to take a look at your changes.
 <!-- - 📫 How to reach me ...  --->
 
 <!-- CS_QUOTE -->
- - 💡 Computer Science Quote: "Good code is short, simple, and symmetrical - the challenge is figuring out how to get there." — Sean Parent
+ - 💡 Computer Science Quote: "Most good programmers do programming not because they expect to get paid or get adulation by the public, but because it is fun to program." — Linus Torvalds
 <!-- CS_QUOTE_END -->
