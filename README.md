@@ -46,5 +46,5 @@ You can click the Preview link to take a look at your changes.
 <!-- - 📫 How to reach me ...  --->
 
 <!-- CS_QUOTE -->
- - 💡 Computer Science Quote: "Because we are uncertain about our scheduling estimates, we often lack the courage to defend them stubbornly against management and customer pressure." — Fred Brooks
+ - 💡 Computer Science Quote: "The programs we use to conjure processes are like a sorcerer's spells. They are carefully composed from symbolic expressions in arcane and esoteric programming languages that prescribe the tasks we want our processes to perform." — Hal Abelson
 <!-- CS_QUOTE_END -->
