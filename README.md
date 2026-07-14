@@ -46,5 +46,5 @@ You can click the Preview link to take a look at your changes.
 <!-- - 📫 How to reach me ...  --->
 
 <!-- CS_QUOTE -->
- - 💡 Computer Science Quote: "The programs we use to conjure processes are like a sorcerer's spells. They are carefully composed from symbolic expressions in arcane and esoteric programming languages that prescribe the tasks we want our processes to perform." — Hal Abelson
+ - 💡 Computer Science Quote: "Right now you are a prisoner of each application you use. You have only the options that were given you by the developer of that application." — Ted Nelson
 <!-- CS_QUOTE_END -->
