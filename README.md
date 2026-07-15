@@ -46,5 +46,5 @@ You can click the Preview link to take a look at your changes.
 <!-- - 📫 How to reach me ...  --->
 
 <!-- CS_QUOTE -->
- - 💡 Computer Science Quote: "Right now you are a prisoner of each application you use. You have only the options that were given you by the developer of that application." — Ted Nelson
+ - 💡 Computer Science Quote: "The effective exploitation of his powers of abstraction must be regarded as one of the most vital activities of a competent programmer." — Edsger W. Dijkstra
 <!-- CS_QUOTE_END -->
