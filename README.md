@@ -46,5 +46,5 @@ You can click the Preview link to take a look at your changes.
 <!-- - 📫 How to reach me ...  --->
 
 <!-- CS_QUOTE -->
- - 💡 Computer Science Quote: "The effective exploitation of his powers of abstraction must be regarded as one of the most vital activities of a competent programmer." — Edsger W. Dijkstra
+ - 💡 Computer Science Quote: "If you ever talk to a great programmer, you'll find he knows his tools like an artist knows his paintbrushes." — Bill Gates
 <!-- CS_QUOTE_END -->
