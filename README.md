@@ -46,5 +46,5 @@ You can click the Preview link to take a look at your changes.
 <!-- - 📫 How to reach me ...  --->
 
 <!-- CS_QUOTE -->
- - 💡 Computer Science Quote: "An interactive debugger is an outstanding example of what is not needed - it encourages trial-and-error hacking rather than systematic design, and also hides marginal people barely qualified for precision programming." — Harlan Mills
+ - 💡 Computer Science Quote: "To be a hacker - when I use the term - is somebody who is creative and does wonderful things." — Tim Berners-Lee
 <!-- CS_QUOTE_END -->
