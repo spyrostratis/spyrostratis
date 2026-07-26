@@ -46,5 +46,5 @@ You can click the Preview link to take a look at your changes.
 <!-- - 📫 How to reach me ...  --->
 
 <!-- CS_QUOTE -->
- - 💡 Computer Science Quote: "If we’d asked the customers what they wanted, they would have said “faster horses”." — Henry Ford
+ - 💡 Computer Science Quote: "Any one who considers arithmetical methods of producing random digits is, of course, in a state of sin. For, as has been pointed out several times, there is no such thing as a random number." — John von Neumann
 <!-- CS_QUOTE_END -->
