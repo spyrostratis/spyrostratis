@@ -46,5 +46,5 @@ You can click the Preview link to take a look at your changes.
 <!-- - 📫 How to reach me ...  --->
 
 <!-- CS_QUOTE -->
- - 💡 Computer Science Quote: "Any one who considers arithmetical methods of producing random digits is, of course, in a state of sin. For, as has been pointed out several times, there is no such thing as a random number." — John von Neumann
+ - 💡 Computer Science Quote: "The only sin is to make a choice without knowing you are making one." — Jonathan Shewchuk
 <!-- CS_QUOTE_END -->
