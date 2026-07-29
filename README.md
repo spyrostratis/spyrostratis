@@ -46,5 +46,5 @@ You can click the Preview link to take a look at your changes.
 <!-- - 📫 How to reach me ...  --->
 
 <!-- CS_QUOTE -->
- - 💡 Computer Science Quote: "I’ve got this need to program. I wake up in the morning with sentences of a literate program. Before breakfast — I’m sure poets must feel this — I have to go to the computer and write this paragraph and then I can eat and I’m happy." — Donald Knuth
+ - 💡 Computer Science Quote: "Humanity is acquiring all the right technology for all the wrong reasons." — Buckminster Fuller
 <!-- CS_QUOTE_END -->
