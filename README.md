@@ -46,5 +46,5 @@ You can click the Preview link to take a look at your changes.
 <!-- - 📫 How to reach me ...  --->
 
 <!-- CS_QUOTE -->
- - 💡 Computer Science Quote: "The beginning of wisdom for a programmer is to recognize the difference between getting his program to work and getting it right." — Michael A. Jackson
+ - 💡 Computer Science Quote: "As long as there were no machines, programming was no problem at all; when we had a few weak computers, programming became a mild problem, and now we have gigantic computers, programming has become an equally gigantic problem." — Edsger W. Dijkstra
 <!-- CS_QUOTE_END -->
