@@ -46,5 +46,5 @@ You can click the Preview link to take a look at your changes.
 <!-- - 📫 How to reach me ...  --->
 
 <!-- CS_QUOTE -->
- - 💡 Computer Science Quote: "In man-machine symbiosis, it is man who must adjust: The machines can't." — Alan Perlis
+ - 💡 Computer Science Quote: "The only difference between a FA [finite automata] and a TM [Turing machine] is that the TM, unlike the FA, has paper and pencil. Think about it. It tells you something about the power of writing." — Manuel Blum
 <!-- CS_QUOTE_END -->
