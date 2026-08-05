@@ -46,5 +46,5 @@ You can click the Preview link to take a look at your changes.
 <!-- - 📫 How to reach me ...  --->
 
 <!-- CS_QUOTE -->
- - 💡 Computer Science Quote: "Putting a new feature into a program is important, but refactoring so new features can be added in the future is equally important." — Ward Cunningham
+ - 💡 Computer Science Quote: "The magic of a computer lies in its ability to become almost anything you can imagine, as long as you can explain exactly what that is." — Danny Hillis
 <!-- CS_QUOTE_END -->
