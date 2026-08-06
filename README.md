@@ -46,5 +46,5 @@ You can click the Preview link to take a look at your changes.
 <!-- - 📫 How to reach me ...  --->
 
 <!-- CS_QUOTE -->
- - 💡 Computer Science Quote: "The magic of a computer lies in its ability to become almost anything you can imagine, as long as you can explain exactly what that is." — Danny Hillis
+ - 💡 Computer Science Quote: "Conceptual integrity is the most important consideration in system design. It is better to have a system omit certain anomalous features and improvements, but to reflect one set of design ideas, than to have one that contains many good but independent and uncoordinated ideas." — Fred Brooks
 <!-- CS_QUOTE_END -->
