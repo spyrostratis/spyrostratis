@@ -46,5 +46,5 @@ You can click the Preview link to take a look at your changes.
 <!-- - 📫 How to reach me ...  --->
 
 <!-- CS_QUOTE -->
- - 💡 Computer Science Quote: "If you can get today’s work done today, but you do it in such a way that you can’t possibly get tomorrow’s work done tomorrow, then you lose." — Martin Fowler
+ - 💡 Computer Science Quote: "Often designers do complicated things that improve the capacity on a particular hardware platform when it might actually be cheaper to buy more hardware." — Martin Fowler
 <!-- CS_QUOTE_END -->
