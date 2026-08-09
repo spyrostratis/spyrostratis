@@ -46,5 +46,5 @@ You can click the Preview link to take a look at your changes.
 <!-- - 📫 How to reach me ...  --->
 
 <!-- CS_QUOTE -->
- - 💡 Computer Science Quote: "Often designers do complicated things that improve the capacity on a particular hardware platform when it might actually be cheaper to buy more hardware." — Martin Fowler
+ - 💡 Computer Science Quote: "I start with drawing the data structures, and I spend a lot of time thinking about them. I also think about what the program has to go through before I start writing code." — Gary Kildall
 <!-- CS_QUOTE_END -->
