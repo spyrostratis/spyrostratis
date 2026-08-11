@@ -46,5 +46,5 @@ You can click the Preview link to take a look at your changes.
 <!-- - 📫 How to reach me ...  --->
 
 <!-- CS_QUOTE -->
- - 💡 Computer Science Quote: "The only sin is to make a choice without knowing you are making one." — Jonathan Shewchuk
+ - 💡 Computer Science Quote: "Talk is cheap. Show me the code." — Linus Torvalds
 <!-- CS_QUOTE_END -->
