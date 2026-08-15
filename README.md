@@ -46,5 +46,5 @@ You can click the Preview link to take a look at your changes.
 <!-- - 📫 How to reach me ...  --->
 
 <!-- CS_QUOTE -->
- - 💡 Computer Science Quote: "If I had followed my heart instead of advice, dBASE would be much closer to perfection today." — Wayne Ratliff
+ - 💡 Computer Science Quote: "A user interface should be so simple that a beginner in an emergency can understand it within 10 seconds." — Ted Nelson
 <!-- CS_QUOTE_END -->
