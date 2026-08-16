@@ -46,5 +46,5 @@ You can click the Preview link to take a look at your changes.
 <!-- - 📫 How to reach me ...  --->
 
 <!-- CS_QUOTE -->
- - 💡 Computer Science Quote: "A user interface should be so simple that a beginner in an emergency can understand it within 10 seconds." — Ted Nelson
+ - 💡 Computer Science Quote: "Compatibility means deliberately repeating other people’s mistakes." — David Wheeler (computer scientist)
 <!-- CS_QUOTE_END -->
