@@ -46,5 +46,5 @@ You can click the Preview link to take a look at your changes.
 <!-- - 📫 How to reach me ...  --->
 
 <!-- CS_QUOTE -->
- - 💡 Computer Science Quote: "Compatibility means deliberately repeating other people’s mistakes." — David Wheeler (computer scientist)
+ - 💡 Computer Science Quote: "All too many of our software systems are, architecturally, little more than shantytowns." — Joseph Yoder (computer scientist)
 <!-- CS_QUOTE_END -->
