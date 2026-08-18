@@ -46,5 +46,5 @@ You can click the Preview link to take a look at your changes.
 <!-- - 📫 How to reach me ...  --->
 
 <!-- CS_QUOTE -->
- - 💡 Computer Science Quote: "All too many of our software systems are, architecturally, little more than shantytowns." — Joseph Yoder (computer scientist)
+ - 💡 Computer Science Quote: "The code you write makes you a programmer. The code you delete makes you a good one. The code you don't have to write makes you a great one." — Mario Fusco
 <!-- CS_QUOTE_END -->
