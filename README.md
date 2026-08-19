@@ -46,5 +46,5 @@ You can click the Preview link to take a look at your changes.
 <!-- - 📫 How to reach me ...  --->
 
 <!-- CS_QUOTE -->
- - 💡 Computer Science Quote: "The code you write makes you a programmer. The code you delete makes you a good one. The code you don't have to write makes you a great one." — Mario Fusco
+ - 💡 Computer Science Quote: "If scientific reasoning were limited to the logical processes of arithmetic, we should not get very far in our understanding of the physical world. One might as well attempt to grasp the game of poker entirely by the use of the mathematics of probability." — Vannevar Bush
 <!-- CS_QUOTE_END -->
