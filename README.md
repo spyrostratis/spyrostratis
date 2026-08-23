@@ -46,5 +46,5 @@ You can click the Preview link to take a look at your changes.
 <!-- - 📫 How to reach me ...  --->
 
 <!-- CS_QUOTE -->
- - 💡 Computer Science Quote: "Mathematicians stand on each others' shoulders and computer scientists stand on each others' toes." — Richard Hamming
+ - 💡 Computer Science Quote: "Most errors are introduced during requirements specification!" — Daniel T. Barry
 <!-- CS_QUOTE_END -->
