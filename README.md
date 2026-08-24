@@ -46,5 +46,5 @@ You can click the Preview link to take a look at your changes.
 <!-- - 📫 How to reach me ...  --->
 
 <!-- CS_QUOTE -->
- - 💡 Computer Science Quote: "Most errors are introduced during requirements specification!" — Daniel T. Barry
+ - 💡 Computer Science Quote: "I have found that the reason a lot of people are interested in artificial intelligence is the same reason a lot of people are interested in artificial limbs: they are missing one." — David Parnas
 <!-- CS_QUOTE_END -->
