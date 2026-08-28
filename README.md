@@ -46,5 +46,5 @@ You can click the Preview link to take a look at your changes.
 <!-- - 📫 How to reach me ...  --->
 
 <!-- CS_QUOTE -->
- - 💡 Computer Science Quote: "What one programmer can do in one month, two programmers can do in two months." — Fred Brooks
+ - 💡 Computer Science Quote: "The entire history of software engineering is that of the rise in levels of abstraction." — Grady Booch
 <!-- CS_QUOTE_END -->
