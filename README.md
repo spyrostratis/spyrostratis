@@ -46,5 +46,5 @@ You can click the Preview link to take a look at your changes.
 <!-- - 📫 How to reach me ...  --->
 
 <!-- CS_QUOTE -->
- - 💡 Computer Science Quote: "The entire history of software engineering is that of the rise in levels of abstraction." — Grady Booch
+ - 💡 Computer Science Quote: "A year spent in artificial intelligence is enough to make one believe in God." — Alan Perlis
 <!-- CS_QUOTE_END -->
