@@ -46,5 +46,5 @@ You can click the Preview link to take a look at your changes.
 <!-- - 📫 How to reach me ...  --->
 
 <!-- CS_QUOTE -->
- - 💡 Computer Science Quote: "Putting a new feature into a program is important, but refactoring so new features can be added in the future is equally important." — Ward Cunningham
+ - 💡 Computer Science Quote: "A display connected to a digital computer gives us a chance to gain familiarity with concepts not realizable in the physical world. It is a looking glass into a mathematical wonderland." — Ivan Sutherland
 <!-- CS_QUOTE_END -->
