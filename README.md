@@ -46,5 +46,5 @@ You can click the Preview link to take a look at your changes.
 <!-- - 📫 How to reach me ...  --->
 
 <!-- CS_QUOTE -->
- - 💡 Computer Science Quote: "A display connected to a digital computer gives us a chance to gain familiarity with concepts not realizable in the physical world. It is a looking glass into a mathematical wonderland." — Ivan Sutherland
+ - 💡 Computer Science Quote: "We build our computer systems the way we build our cities: over time, without a plan, on top of ruins." — Ellen Ullman
 <!-- CS_QUOTE_END -->
