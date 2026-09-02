@@ -46,5 +46,5 @@ You can click the Preview link to take a look at your changes.
 <!-- - 📫 How to reach me ...  --->
 
 <!-- CS_QUOTE -->
- - 💡 Computer Science Quote: "We build our computer systems the way we build our cities: over time, without a plan, on top of ruins." — Ellen Ullman
+ - 💡 Computer Science Quote: "Making things easy is hard." — Ted Nelson
 <!-- CS_QUOTE_END -->
