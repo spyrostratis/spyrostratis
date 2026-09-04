@@ -46,5 +46,5 @@ You can click the Preview link to take a look at your changes.
 <!-- - 📫 How to reach me ...  --->
 
 <!-- CS_QUOTE -->
- - 💡 Computer Science Quote: "Professionalism has no place in art, and hacking is art. Software Engineering might be science; but that's not what I do. I'm a hacker, not an engineer." — Jamie Zawinski
+ - 💡 Computer Science Quote: "Most errors are introduced during requirements specification!" — Daniel T. Barry
 <!-- CS_QUOTE_END -->
