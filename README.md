@@ -46,5 +46,5 @@ You can click the Preview link to take a look at your changes.
 <!-- - 📫 How to reach me ...  --->
 
 <!-- CS_QUOTE -->
- - 💡 Computer Science Quote: "Most errors are introduced during requirements specification!" — Daniel T. Barry
+ - 💡 Computer Science Quote: "So much complexity in software comes from trying to make one thing do two things." — Ryan Singer
 <!-- CS_QUOTE_END -->
