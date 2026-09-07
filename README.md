@@ -46,5 +46,5 @@ You can click the Preview link to take a look at your changes.
 <!-- - 📫 How to reach me ...  --->
 
 <!-- CS_QUOTE -->
- - 💡 Computer Science Quote: "Life is too short to run proprietary software." — Bdale Garbee
+ - 💡 Computer Science Quote: "One of the greatest joys in computer programming is discovering a new, faster, more efficient algorithm for doing something — particularly if a lot of well-respected people have come up with worse solutions." — Danny Hillis
 <!-- CS_QUOTE_END -->
