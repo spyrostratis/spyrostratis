@@ -46,5 +46,5 @@ You can click the Preview link to take a look at your changes.
 <!-- - 📫 How to reach me ...  --->
 
 <!-- CS_QUOTE -->
- - 💡 Computer Science Quote: "To be a hacker - when I use the term - is somebody who is creative and does wonderful things." — Tim Berners-Lee
+ - 💡 Computer Science Quote: "Never memorize something that you can look up." — Albert Einstein
 <!-- CS_QUOTE_END -->
