@@ -46,5 +46,5 @@ You can click the Preview link to take a look at your changes.
 <!-- - 📫 How to reach me ...  --->
 
 <!-- CS_QUOTE -->
- - 💡 Computer Science Quote: "Never memorize something that you can look up." — Albert Einstein
+ - 💡 Computer Science Quote: "Computer languages of the future will be more concerned with goals and less with procedures specified by the programmer." — Marvin Minsky
 <!-- CS_QUOTE_END -->
