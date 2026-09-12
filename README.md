@@ -46,5 +46,5 @@ You can click the Preview link to take a look at your changes.
 <!-- - 📫 How to reach me ...  --->
 
 <!-- CS_QUOTE -->
- - 💡 Computer Science Quote: "Computer languages of the future will be more concerned with goals and less with procedures specified by the programmer." — Marvin Minsky
+ - 💡 Computer Science Quote: "A number of studies have shown testing not very effective at finding bugs." — Daniel T. Barry
 <!-- CS_QUOTE_END -->
