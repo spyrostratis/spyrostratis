@@ -46,5 +46,5 @@ You can click the Preview link to take a look at your changes.
 <!-- - 📫 How to reach me ...  --->
 
 <!-- CS_QUOTE -->
- - 💡 Computer Science Quote: "Any sufficiently advanced technology is indistinguishable from magic." — Arthur C. Clarke
+ - 💡 Computer Science Quote: "A language that doesn’t have everything is actually easier to program in than some that do." — Dennis Ritchie
 <!-- CS_QUOTE_END -->
