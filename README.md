@@ -46,5 +46,5 @@ You can click the Preview link to take a look at your changes.
 <!-- - 📫 How to reach me ...  --->
 
 <!-- CS_QUOTE -->
- - 💡 Computer Science Quote: "A language that doesn’t have everything is actually easier to program in than some that do." — Dennis Ritchie
+ - 💡 Computer Science Quote: "Science is what we understand well enough to explain to a computer. Art is everything else we do." — Donald Knuth
 <!-- CS_QUOTE_END -->
