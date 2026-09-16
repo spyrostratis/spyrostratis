@@ -46,5 +46,5 @@ You can click the Preview link to take a look at your changes.
 <!-- - 📫 How to reach me ...  --->
 
 <!-- CS_QUOTE -->
- - 💡 Computer Science Quote: "Science is what we understand well enough to explain to a computer. Art is everything else we do." — Donald Knuth
+ - 💡 Computer Science Quote: "Good code is short, simple, and symmetrical - the challenge is figuring out how to get there." — Sean Parent
 <!-- CS_QUOTE_END -->
