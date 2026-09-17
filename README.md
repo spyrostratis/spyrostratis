@@ -46,5 +46,5 @@ You can click the Preview link to take a look at your changes.
 <!-- - 📫 How to reach me ...  --->
 
 <!-- CS_QUOTE -->
- - 💡 Computer Science Quote: "Good code is short, simple, and symmetrical - the challenge is figuring out how to get there." — Sean Parent
+ - 💡 Computer Science Quote: "See, you not only have to be a good coder to create a system like Linux, you have to be a sneaky bastard too ;-)" — Linus Torvalds
 <!-- CS_QUOTE_END -->
