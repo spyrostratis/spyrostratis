@@ -46,5 +46,5 @@ You can click the Preview link to take a look at your changes.
 <!-- - 📫 How to reach me ...  --->
 
 <!-- CS_QUOTE -->
- - 💡 Computer Science Quote: "Code never lies, comments sometimes do." — Ron Jeffries
+ - 💡 Computer Science Quote: "When a distinguished but elderly scientist states that something is possible, they are almost certainly right. When they state that something is impossible, they are very probably wrong." — Arthur C. Clarke
 <!-- CS_QUOTE_END -->
