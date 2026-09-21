@@ -46,5 +46,5 @@ You can click the Preview link to take a look at your changes.
 <!-- - 📫 How to reach me ...  --->
 
 <!-- CS_QUOTE -->
- - 💡 Computer Science Quote: "We may say most aptly that the Analytical Engine weaves algebraical patterns just as the Jacquard loom weaves flowers and leaves." — Ada Lovelace
+ - 💡 Computer Science Quote: "For most software, efficiency just does not matter." — Daniel T. Barry
 <!-- CS_QUOTE_END -->
