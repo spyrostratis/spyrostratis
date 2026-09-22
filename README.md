@@ -46,5 +46,5 @@ You can click the Preview link to take a look at your changes.
 <!-- - 📫 How to reach me ...  --->
 
 <!-- CS_QUOTE -->
- - 💡 Computer Science Quote: "For most software, efficiency just does not matter." — Daniel T. Barry
+ - 💡 Computer Science Quote: "Walking on water and developing software from a specification are easy if both are frozen." — Edward V. Berard
 <!-- CS_QUOTE_END -->
