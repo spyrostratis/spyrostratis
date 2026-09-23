@@ -46,5 +46,5 @@ You can click the Preview link to take a look at your changes.
 <!-- - 📫 How to reach me ...  --->
 
 <!-- CS_QUOTE -->
- - 💡 Computer Science Quote: "Walking on water and developing software from a specification are easy if both are frozen." — Edward V. Berard
+ - 💡 Computer Science Quote: "One of my most productive days was throwing away 1,000 lines of code." — Ken Thompson
 <!-- CS_QUOTE_END -->
