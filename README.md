@@ -46,5 +46,5 @@ You can click the Preview link to take a look at your changes.
 <!-- - 📫 How to reach me ...  --->
 
 <!-- CS_QUOTE -->
- - 💡 Computer Science Quote: "The first 90 percent of the code accounts for the first 90 percent of the development time. The remaining 10 percent of the code accounts for the other 90 percent of the development time." — Tom Cargill
+ - 💡 Computer Science Quote: "Simplicity is prerequisite for reliability." — Edsger W. Dijkstra
 <!-- CS_QUOTE_END -->
