@@ -46,5 +46,5 @@ You can click the Preview link to take a look at your changes.
 <!-- - 📫 How to reach me ...  --->
 
 <!-- CS_QUOTE -->
- - 💡 Computer Science Quote: "Shipping first time code is like going into debt. A little debt speeds development so long as it is paid back promptly with a rewrite. The danger occurs when the debt is not repaid. Every minute spent on not-quite-right code counts as interest on that debt. Entire engineering organizations can be brought to a stand-still under the technical debt load." — Ward Cunningham
+ - 💡 Computer Science Quote: "Every program has (at least) two purposes: the one for which it was written and another for which it wasn't." — Alan Perlis
 <!-- CS_QUOTE_END -->
