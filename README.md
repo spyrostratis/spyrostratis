@@ -46,5 +46,5 @@ You can click the Preview link to take a look at your changes.
 <!-- - 📫 How to reach me ...  --->
 
 <!-- CS_QUOTE -->
- - 💡 Computer Science Quote: "Every program has (at least) two purposes: the one for which it was written and another for which it wasn't." — Alan Perlis
+ - 💡 Computer Science Quote: "I'm convinced that about half of what separates the successful entrepreneurs from the non-successful ones is pure perseverance. It is so hard." — Steve Jobs
 <!-- CS_QUOTE_END -->
