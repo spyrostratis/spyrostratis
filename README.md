@@ -46,5 +46,5 @@ You can click the Preview link to take a look at your changes.
 <!-- - 📫 How to reach me ...  --->
 
 <!-- CS_QUOTE -->
- - 💡 Computer Science Quote: "I'm convinced that about half of what separates the successful entrepreneurs from the non-successful ones is pure perseverance. It is so hard." — Steve Jobs
+ - 💡 Computer Science Quote: "When program developers are not territorial about their code and encourage others to look for bugs and potential improvements, progress speeds up dramatically." — Gerald Weinberg
 <!-- CS_QUOTE_END -->
