@@ -46,5 +46,5 @@ You can click the Preview link to take a look at your changes.
 <!-- - 📫 How to reach me ...  --->
 
 <!-- CS_QUOTE -->
- - 💡 Computer Science Quote: "When program developers are not territorial about their code and encourage others to look for bugs and potential improvements, progress speeds up dramatically." — Gerald Weinberg
+ - 💡 Computer Science Quote: "The most effective debugging tool is still careful thought, coupled with judiciously placed print statements." — Brian Kernighan
 <!-- CS_QUOTE_END -->
