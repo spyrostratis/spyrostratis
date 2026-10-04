@@ -46,5 +46,5 @@ You can click the Preview link to take a look at your changes.
 <!-- - 📫 How to reach me ...  --->
 
 <!-- CS_QUOTE -->
- - 💡 Computer Science Quote: "The most effective debugging tool is still careful thought, coupled with judiciously placed print statements." — Brian Kernighan
+ - 💡 Computer Science Quote: "The only sin is to make a choice without knowing you are making one." — Jonathan Shewchuk
 <!-- CS_QUOTE_END -->
