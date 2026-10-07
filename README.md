@@ -46,5 +46,5 @@ You can click the Preview link to take a look at your changes.
 <!-- - 📫 How to reach me ...  --->
 
 <!-- CS_QUOTE -->
- - 💡 Computer Science Quote: "First, solve the problem. Then, write the code." — John Johnson
+ - 💡 Computer Science Quote: "To iterate is human, to recurse divine." — L. Peter Deutsch
 <!-- CS_QUOTE_END -->
