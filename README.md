@@ -46,5 +46,5 @@ You can click the Preview link to take a look at your changes.
 <!-- - 📫 How to reach me ...  --->
 
 <!-- CS_QUOTE -->
- - 💡 Computer Science Quote: "To iterate is human, to recurse divine." — L. Peter Deutsch
+ - 💡 Computer Science Quote: "Don't worry about anything. Just do what you can and be the best you can be." — Douglas Crockford
 <!-- CS_QUOTE_END -->
