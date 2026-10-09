@@ -46,5 +46,5 @@ You can click the Preview link to take a look at your changes.
 <!-- - 📫 How to reach me ...  --->
 
 <!-- CS_QUOTE -->
- - 💡 Computer Science Quote: "Don't worry about anything. Just do what you can and be the best you can be." — Douglas Crockford
+ - 💡 Computer Science Quote: "Every program has (at least) two purposes: the one for which it was written and another for which it wasn't." — Alan Perlis
 <!-- CS_QUOTE_END -->
