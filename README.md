@@ -46,5 +46,5 @@ You can click the Preview link to take a look at your changes.
 <!-- - 📫 How to reach me ...  --->
 
 <!-- CS_QUOTE -->
- - 💡 Computer Science Quote: "One man's constant is another man's variable." — Alan Perlis
+ - 💡 Computer Science Quote: "Programming is at least as difficult as developing a mathematical theory." — Daniel T. Barry
 <!-- CS_QUOTE_END -->
