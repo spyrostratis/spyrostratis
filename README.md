@@ -46,5 +46,5 @@ You can click the Preview link to take a look at your changes.
 <!-- - 📫 How to reach me ...  --->
 
 <!-- CS_QUOTE -->
- - 💡 Computer Science Quote: "Programming is at least as difficult as developing a mathematical theory." — Daniel T. Barry
+ - 💡 Computer Science Quote: "Within C++, there is a much smaller and cleaner language struggling to get out." — Bjarne Stroustrup
 <!-- CS_QUOTE_END -->
