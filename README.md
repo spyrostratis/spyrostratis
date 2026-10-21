@@ -46,5 +46,5 @@ You can click the Preview link to take a look at your changes.
 <!-- - 📫 How to reach me ...  --->
 
 <!-- CS_QUOTE -->
- - 💡 Computer Science Quote: "Sometimes we do get taken by surprise. For example, when the Internet came along, we had it as a fifth or sixth priority." — Bill Gates
+ - 💡 Computer Science Quote: "What one programmer can do in one month, two programmers can do in two months." — Fred Brooks
 <!-- CS_QUOTE_END -->
