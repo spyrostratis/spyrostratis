@@ -46,5 +46,5 @@ You can click the Preview link to take a look at your changes.
 <!-- - 📫 How to reach me ...  --->
 
 <!-- CS_QUOTE -->
- - 💡 Computer Science Quote: "What one programmer can do in one month, two programmers can do in two months." — Fred Brooks
+ - 💡 Computer Science Quote: "Fancy algorithms are slow when n is small, and n is usually small." — Rob Pike
 <!-- CS_QUOTE_END -->
