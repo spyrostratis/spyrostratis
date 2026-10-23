@@ -46,5 +46,5 @@ You can click the Preview link to take a look at your changes.
 <!-- - 📫 How to reach me ...  --->
 
 <!-- CS_QUOTE -->
- - 💡 Computer Science Quote: "Fancy algorithms are slow when n is small, and n is usually small." — Rob Pike
+ - 💡 Computer Science Quote: "Human beings are not accustomed to being perfect, and few areas of human activity demand it. Adjusting to the requirement for perfection is, I think, the most difficult part of learning to program." — Fred Brooks
 <!-- CS_QUOTE_END -->
