@@ -46,5 +46,5 @@ You can click the Preview link to take a look at your changes.
 <!-- - 📫 How to reach me ...  --->
 
 <!-- CS_QUOTE -->
- - 💡 Computer Science Quote: "Human beings are not accustomed to being perfect, and few areas of human activity demand it. Adjusting to the requirement for perfection is, I think, the most difficult part of learning to program." — Fred Brooks
+ - 💡 Computer Science Quote: "Sometimes we do get taken by surprise. For example, when the Internet came along, we had it as a fifth or sixth priority." — Bill Gates
 <!-- CS_QUOTE_END -->
