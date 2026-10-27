@@ -46,5 +46,5 @@ You can click the Preview link to take a look at your changes.
 <!-- - 📫 How to reach me ...  --->
 
 <!-- CS_QUOTE -->
- - 💡 Computer Science Quote: "A language that doesn’t have everything is actually easier to program in than some that do." — Dennis Ritchie
+ - 💡 Computer Science Quote: "The science of operations, as derived from mathematics more especially, is a science of itself, and has its own abstract truth and value." — Ada Lovelace
 <!-- CS_QUOTE_END -->
