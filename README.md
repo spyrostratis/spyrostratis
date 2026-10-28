@@ -46,5 +46,5 @@ You can click the Preview link to take a look at your changes.
 <!-- - 📫 How to reach me ...  --->
 
 <!-- CS_QUOTE -->
- - 💡 Computer Science Quote: "The science of operations, as derived from mathematics more especially, is a science of itself, and has its own abstract truth and value." — Ada Lovelace
+ - 💡 Computer Science Quote: "Managing a large project is a qualitatively different problem from managing a small one, just as leading a division of infantry into battle is different from commanding a small special forces team." — Joseph Yoder (computer scientist)
 <!-- CS_QUOTE_END -->
