@@ -46,5 +46,5 @@ You can click the Preview link to take a look at your changes.
 <!-- - 📫 How to reach me ...  --->
 
 <!-- CS_QUOTE -->
- - 💡 Computer Science Quote: "Managing a large project is a qualitatively different problem from managing a small one, just as leading a division of infantry into battle is different from commanding a small special forces team." — Joseph Yoder (computer scientist)
+ - 💡 Computer Science Quote: "If you have a procedure with 10 parameters, you probably missed some." — Alan Perlis
 <!-- CS_QUOTE_END -->
