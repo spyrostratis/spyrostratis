@@ -46,5 +46,5 @@ You can click the Preview link to take a look at your changes.
 <!-- - 📫 How to reach me ...  --->
 
 <!-- CS_QUOTE -->
- - 💡 Computer Science Quote: "If you have a procedure with 10 parameters, you probably missed some." — Alan Perlis
+ - 💡 Computer Science Quote: "Hardware is the part you can replace. Software is the part you have to keep, because it’s so expensive and nobody understands it any more." — Jim Horning
 <!-- CS_QUOTE_END -->
