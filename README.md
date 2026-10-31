@@ -46,5 +46,5 @@ You can click the Preview link to take a look at your changes.
 <!-- - 📫 How to reach me ...  --->
 
 <!-- CS_QUOTE -->
- - 💡 Computer Science Quote: "Hardware is the part you can replace. Software is the part you have to keep, because it’s so expensive and nobody understands it any more." — Jim Horning
+ - 💡 Computer Science Quote: "You can’t trust code that you did not totally create yourself." — Ken Thompson
 <!-- CS_QUOTE_END -->
