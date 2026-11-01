@@ -46,5 +46,5 @@ You can click the Preview link to take a look at your changes.
 <!-- - 📫 How to reach me ...  --->
 
 <!-- CS_QUOTE -->
- - 💡 Computer Science Quote: "You can’t trust code that you did not totally create yourself." — Ken Thompson
+ - 💡 Computer Science Quote: "Programming increases goes as a power of program size." — Fred Brooks
 <!-- CS_QUOTE_END -->
