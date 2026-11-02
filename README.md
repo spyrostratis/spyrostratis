@@ -46,5 +46,5 @@ You can click the Preview link to take a look at your changes.
 <!-- - 📫 How to reach me ...  --->
 
 <!-- CS_QUOTE -->
- - 💡 Computer Science Quote: "Programming increases goes as a power of program size." — Fred Brooks
+ - 💡 Computer Science Quote: "If we’d asked the customers what they wanted, they would have said “faster horses”." — Henry Ford
 <!-- CS_QUOTE_END -->
