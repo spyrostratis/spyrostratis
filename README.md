@@ -46,5 +46,5 @@ You can click the Preview link to take a look at your changes.
 <!-- - 📫 How to reach me ...  --->
 
 <!-- CS_QUOTE -->
- - 💡 Computer Science Quote: "If we’d asked the customers what they wanted, they would have said “faster horses”." — Henry Ford
+ - 💡 Computer Science Quote: "Ideas don't disappear. They change form, they merge with other ideas." — Bob Frankston
 <!-- CS_QUOTE_END -->
