@@ -46,5 +46,5 @@ You can click the Preview link to take a look at your changes.
 <!-- - 📫 How to reach me ...  --->
 
 <!-- CS_QUOTE -->
- - 💡 Computer Science Quote: "Ideas don't disappear. They change form, they merge with other ideas." — Bob Frankston
+ - 💡 Computer Science Quote: "The most important part of writing a program is designing the data structures." — Dan Bricklin
 <!-- CS_QUOTE_END -->
