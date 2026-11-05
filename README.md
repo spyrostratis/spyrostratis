@@ -46,5 +46,5 @@ You can click the Preview link to take a look at your changes.
 <!-- - 📫 How to reach me ...  --->
 
 <!-- CS_QUOTE -->
- - 💡 Computer Science Quote: "The most important part of writing a program is designing the data structures." — Dan Bricklin
+ - 💡 Computer Science Quote: "Thus it is observable that the buildings which a single architect has planned and executed, are generally more elegant and commodious than those which several have attempted to improve." — René Descartes
 <!-- CS_QUOTE_END -->
