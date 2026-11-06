@@ -46,5 +46,5 @@ You can click the Preview link to take a look at your changes.
 <!-- - 📫 How to reach me ...  --->
 
 <!-- CS_QUOTE -->
- - 💡 Computer Science Quote: "Thus it is observable that the buildings which a single architect has planned and executed, are generally more elegant and commodious than those which several have attempted to improve." — René Descartes
+ - 💡 Computer Science Quote: "It turns out that there is no algorithm for examining a program and determining whether or not it is fatally infected with an endless loop. Moreover, it’s not that no one has yet discovered such an algorithm; rather, no such algorithm is possible." — Danny Hillis
 <!-- CS_QUOTE_END -->
