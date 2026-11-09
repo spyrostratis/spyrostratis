@@ -46,5 +46,5 @@ You can click the Preview link to take a look at your changes.
 <!-- - 📫 How to reach me ...  --->
 
 <!-- CS_QUOTE -->
- - 💡 Computer Science Quote: "When we don’t understand a process, we fall into magical thinking about results." — Jef Raskin
+ - 💡 Computer Science Quote: "There is never enough time to do it right, but there is always enough time to fix it or to do it over." — Daniel T. Barry
 <!-- CS_QUOTE_END -->
