@@ -46,5 +46,5 @@ You can click the Preview link to take a look at your changes.
 <!-- - 📫 How to reach me ...  --->
 
 <!-- CS_QUOTE -->
- - 💡 Computer Science Quote: "There is never enough time to do it right, but there is always enough time to fix it or to do it over." — Daniel T. Barry
+ - 💡 Computer Science Quote: "Reliable computations are obtainable from buggy programs, which after all, are the only kind of programs there are." — Daniel T. Barry
 <!-- CS_QUOTE_END -->
