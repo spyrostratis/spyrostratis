@@ -46,5 +46,5 @@ You can click the Preview link to take a look at your changes.
 <!-- - 📫 How to reach me ...  --->
 
 <!-- CS_QUOTE -->
- - 💡 Computer Science Quote: "Should array indices start at 0 or 1? My compromise of 0.5 was rejected without, I thought, proper consideration." — Stan Kelly-Bootle
+ - 💡 Computer Science Quote: "Always code as if the guy who ends up maintaining your code will be a violent psychopath who knows where you live." — Rick Osborne
 <!-- CS_QUOTE_END -->
