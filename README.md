@@ -46,5 +46,5 @@ You can click the Preview link to take a look at your changes.
 <!-- - 📫 How to reach me ...  --->
 
 <!-- CS_QUOTE -->
- - 💡 Computer Science Quote: "Always code as if the guy who ends up maintaining your code will be a violent psychopath who knows where you live." — Rick Osborne
+ - 💡 Computer Science Quote: "A number of studies have shown testing not very effective at finding bugs." — Daniel T. Barry
 <!-- CS_QUOTE_END -->
