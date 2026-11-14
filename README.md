@@ -46,5 +46,7 @@ You can click the Preview link to take a look at your changes.
 <!-- - 📫 How to reach me ...  --->
 
 <!-- CS_QUOTE -->
- - 💡 Computer Science Quote: "A number of studies have shown testing not very effective at finding bugs." — Daniel T. Barry
+ - 💡 Computer Science Quote: "Two things are known about requirements:
+1. They will change!
+2. They will be misunderstood!" — Michael A. Jackson
 <!-- CS_QUOTE_END -->
