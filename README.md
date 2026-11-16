@@ -46,5 +46,5 @@ You can click the Preview link to take a look at your changes.
 <!-- - 📫 How to reach me ...  --->
 
 <!-- CS_QUOTE -->
- - 💡 Computer Science Quote: "Sackman, Erickson, and Grant were measuring performance of a group of experienced programmers. Within just this group the ratios between the best and worst performances averaged about 10:1 on productivity measurements and an amazing 5:1 on program speed and space measurements!" — Fred Brooks
+ - 💡 Computer Science Quote: "If I had followed my heart instead of advice, dBASE would be much closer to perfection today." — Wayne Ratliff
 <!-- CS_QUOTE_END -->
