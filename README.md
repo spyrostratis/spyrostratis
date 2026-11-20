@@ -46,5 +46,5 @@ You can click the Preview link to take a look at your changes.
 <!-- - 📫 How to reach me ...  --->
 
 <!-- CS_QUOTE -->
- - 💡 Computer Science Quote: "Having a system architect is the most important single step toward conceptual integrity. After teaching a software engineering laboratory more than 20 times, I came to insist that student teams as small as four people choose a manager and a separate architect." — Fred Brooks
+ - 💡 Computer Science Quote: "The act of describing a program in unambiguous detail and the act of programming are one and the same." — Kevlin Henney
 <!-- CS_QUOTE_END -->
