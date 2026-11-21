@@ -46,5 +46,5 @@ You can click the Preview link to take a look at your changes.
 <!-- - 📫 How to reach me ...  --->
 
 <!-- CS_QUOTE -->
- - 💡 Computer Science Quote: "The act of describing a program in unambiguous detail and the act of programming are one and the same." — Kevlin Henney
+ - 💡 Computer Science Quote: "The efficiency of the code decreases with an increase in the number of people working on the program. The most efficient programs are written by a single person." — Charles Simonyi
 <!-- CS_QUOTE_END -->
