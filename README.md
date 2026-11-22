@@ -46,5 +46,5 @@ You can click the Preview link to take a look at your changes.
 <!-- - 📫 How to reach me ...  --->
 
 <!-- CS_QUOTE -->
- - 💡 Computer Science Quote: "The efficiency of the code decreases with an increase in the number of people working on the program. The most efficient programs are written by a single person." — Charles Simonyi
+ - 💡 Computer Science Quote: "If people do not believe that mathematics is simple, it is only because they do not realize how complicated life is." — John von Neumann
 <!-- CS_QUOTE_END -->
