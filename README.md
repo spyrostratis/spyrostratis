@@ -46,5 +46,5 @@ You can click the Preview link to take a look at your changes.
 <!-- - 📫 How to reach me ...  --->
 
 <!-- CS_QUOTE -->
- - 💡 Computer Science Quote: "If people do not believe that mathematics is simple, it is only because they do not realize how complicated life is." — John von Neumann
+ - 💡 Computer Science Quote: "When in doubt, use brute force." — Ken Thompson
 <!-- CS_QUOTE_END -->
