@@ -46,5 +46,5 @@ You can click the Preview link to take a look at your changes.
 <!-- - 📫 How to reach me ...  --->
 
 <!-- CS_QUOTE -->
- - 💡 Computer Science Quote: "Readability of code is now my first priority. It’s more important than being fast, almost as important as being correct, but I think being readable is actually the most likely way of making it correct." — Douglas Crockford
+ - 💡 Computer Science Quote: "Compatibility means deliberately repeating other people’s mistakes." — David Wheeler (computer scientist)
 <!-- CS_QUOTE_END -->
